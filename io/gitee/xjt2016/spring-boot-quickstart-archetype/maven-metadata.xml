@@ -4,8 +4,8 @@
   <artifactId>spring-boot-quickstart-archetype</artifactId>
   <versioning>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20191127063038</lastUpdated>
+    <lastUpdated>20191127063715</lastUpdated>
   </versioning>
 </metadata>
