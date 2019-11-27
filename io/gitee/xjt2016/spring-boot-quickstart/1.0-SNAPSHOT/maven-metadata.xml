@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.gitee.xjt2016</groupId>
+  <artifactId>spring-boot-quickstart</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20191127.041507</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20191127041507</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20191127.041507-1</value>
+        <updated>20191127041507</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20191127.041507-1</value>
+        <updated>20191127041507</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
